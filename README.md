@@ -1,5 +1,5 @@
 # Java Bank App
-> `Eclipse IDE` 로 개발된 자바 콘솔 기반 '은행 계좌 관리' 시스템
+> `Eclipse IDE` 로 개발된 자바 콘솔 기반 **'은행 계좌 관리'** 시스템
 
 ## 기능
 
