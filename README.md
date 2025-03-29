@@ -1,9 +1,9 @@
 # Java Bank App
-> java 은행 애플리케이션 미니 프로젝트
 > Eclipse IDE로 개발된 자바 콘솔 기반 은행 계좌 관리 시스템
 
 
-<h2>✰ 개발 환경</h2>
+<h2>✓ 개발 환경</h2>
+## ✓ 개발 환경
 <div align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse IDE" />
