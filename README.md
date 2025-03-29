@@ -3,7 +3,7 @@
 > Eclipse IDE로 개발된 자바 콘솔 기반 은행 계좌 관리 시스템
 
 
-<h2>🛠 개발 환경</h2>
+<h2>✰ 개발 환경</h2>
 <div align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse IDE" />
@@ -11,7 +11,7 @@
 </div>
 
 ## ✓ 핵심 기능
-① 계좌 생성 : 계좌번호, 예금주, 초기 잔액 정보를 입력하여 새 계좌 생성 </br>
+❶ 계좌 생성 : 계좌번호, 예금주, 초기 잔액 정보를 입력하여 새 계좌 생성 </br>
 ② 계좌 목록 조회 : 모든 계좌 정보 확인 </br>
 ③ 입금 기능 : 계좌번호를 입력하여 금액을 입금 </br>
 ④ 출금 기능 : 계좌번호를 입력하여 금액을 출금 </br>
